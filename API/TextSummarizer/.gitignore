@@ -68,3 +68,6 @@ secrets.json
 # SSL Certificates
 *.pfx
 *.p12
+
+# User secrets
+**/secrets.json
