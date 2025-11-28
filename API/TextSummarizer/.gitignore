@@ -1,0 +1,70 @@
+## Visual Studio / .NET ignores
+
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Rider / ReSharper
+.idea/
+*.DotSettings.user
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Temporary files
+*.tmp
+*.temp
+*.DS_Store
+
+# Publish artifacts
+publish/
+dist/
+
+# ASP.NET Generated files
+wwwroot/lib/
+node_modules/
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Environment / local configs
+.env
+.env.*        
+*.local.json
+
+# Hide app settings that contain secrets
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.Development.json
+appsettings.*.Local.json
+
+# Secret Manager files (not required but safe)
+secrets.json
+
+# EF Migrations snapshot temp files
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# SSL Certificates
+*.pfx
+*.p12
