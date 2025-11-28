@@ -7,8 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 
 // Bind Bytez settings
-builder.Services.Configure<BytezSettings>(
-    builder.Configuration.GetSection("Bytez"));
+builder.Services.Configure<BytezSettings>(builder.Configuration.GetSection("Bytez"));
+
 
 // Register HttpClient and service
 builder.Services.AddHttpClient<ITextSummarizer, BytezTextSummarizer>();

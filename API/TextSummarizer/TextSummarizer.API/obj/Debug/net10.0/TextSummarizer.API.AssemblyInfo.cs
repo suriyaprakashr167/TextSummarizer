@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("6ab7186c-fae8-4618-b5b0-6f683e40b215")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("TextSummarizer.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0d5dc9b5a2d71e60e95eaa371e44ae8426becfa")]
 [assembly: System.Reflection.AssemblyProductAttribute("TextSummarizer.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TextSummarizer.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
