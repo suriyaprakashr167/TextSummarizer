@@ -1,0 +1,16 @@
+Trying https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+Model https://api-inference.huggingface.co/models/facebook/bart-large-cnn HTTP 410: https://api-inference.huggingface.co is no longer supported. Please use https://router.huggingface.co instead.
+Trying https://api-inference.huggingface.co/models/sshleifer/distilbart-cnn-12-6
+Model https://api-inference.huggingface.co/models/sshleifer/distilbart-cnn-12-6 HTTP 410: https://api-inference.huggingface.co is no longer supported. Please use https://router.huggingface.co instead.
+Trying https://api-inference.huggingface.co/models/google/pegasus-xsum
+Model https://api-inference.huggingface.co/models/google/pegasus-xsum HTTP 410: https://api-inference.huggingface.co is no longer supported. Please use https://router.huggingface.co instead.
+Trying https://api-inference.huggingface.co/models/google/pegasus-xsum
+Model https://api-inference.huggingface.co/models/google/pegasus-xsum HTTP 410: https://api-inference.huggingface.co is no longer supported. Please use https://router.huggingface.co instead.
+Trying https://api-inference.huggingface.co/models/google/pegasus-cnn_dailymail
+Model https://api-inference.huggingface.co/models/google/pegasus-cnn_dailymail HTTP 410: https://api-inference.huggingface.co is no longer supported. Please use https://router.huggingface.co instead.
+Trying https://api-inference.huggingface.co/models/t5-small
+Model https://api-inference.huggingface.co/models/t5-small HTTP 410: https://api-inference.huggingface.co is no longer supported. Please use https://router.huggingface.co instead.
+Trying https://api-inference.huggingface.co/models/t5-base
+Model https://api-inference.huggingface.co/models/t5-base HTTP 410: https://api-inference.huggingface.co is no longer supported. Please use https://router.huggingface.co instead.
+Trying https://api-inference.huggingface.co/models/google/pegasus-xsum
+Model https://api-inference.huggingface.co/models/google/pegasus-xsum HTTP 410: https://api-inference.huggingface.co is no longer supported. Please use https://router.huggingface.co instead.
