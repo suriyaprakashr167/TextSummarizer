@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TextSummarizer.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0d5dc9b5a2d71e60e95eaa371e44ae8426becfa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d36e2488b09be8a7e496ceb68e1e7530ec31604f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TextSummarizer.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TextSummarizer.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
